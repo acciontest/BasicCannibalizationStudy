@@ -18,7 +18,7 @@ namespace BasicCannibalizationStudy
         private string _appName;
         private string jobid;
         private string outputid;
-        private string validationId;
+       // private string validationId;
         private string _appActualName;
         private dynamic statusresp;
     
